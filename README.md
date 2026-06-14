@@ -65,7 +65,7 @@ _Frame-timing screenshot: [add yours here]_ — capture with `flutter run --prof
 
 ## 8. AI usage
 
-I used an AI coding assistant for scaffolding and boilerplate.
+I used an AI coding assistant correct floder structer and writting test widgets perform
 - **Changed its suggestion:** it first revealed the quiz on a fixed timer; I
   replaced that with the TTS completion handler so it matches the real audio end.
 - **Didn't work at first:** wiring the TTS handlers on every tap risked duplicate
